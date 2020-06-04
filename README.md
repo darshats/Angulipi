@@ -1,1 +1,2 @@
-# ImageWork
+Ancient manuscripts have a ton of content that is slowly getting lost as there is not enough manpower to read and translate all of stacks of parchments lying in museums, temples, libraries.
+OpenCV is used to process images of manuscripts with significant effort on noise reduction, line detection and finding bounding boxes. This can be used to automate training data gen to bootstrap a DL based approach.
